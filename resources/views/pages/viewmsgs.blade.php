@@ -14,7 +14,7 @@
         <tbody>
         <tr>
             <th scope="row">1</th>
-            <td><a href="http://localhost:8000/bootstrapcard">Sign up issue</td>
+            <td><a href="pages.bootstrap">Sign up issue</td>
             <td>
                 <div class="card at pl-0 pl-0 pl-0" align="center">
                     <form>
@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <th scope="row">2</th>
-            <td><a href="http://localhost:8000/bootstrapcard1">Can't access my account</td>
+            <td><a href="pages.bootstrap1">Can't access my account</td>
             <td>
                 <div class="card at pl-0 pl-0 pl-0" align="center">
                     <form>
@@ -43,7 +43,7 @@
                 </div></td>
         </tr>
         <th scope="row">3</th>
-        <td><a href="http://localhost:8000/bootstrapcard2">Password reset issue</td>
+        <td><a href="pages.bootstrap2">Password reset issue</td>
         <td>
             <div class="card at pl-0 pl-0 pl-0" align="center">
                 <form>
