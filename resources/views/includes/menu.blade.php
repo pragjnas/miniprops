@@ -22,8 +22,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/signup">Sign-up</a>
-                <!-- <li class="nav-item">
-                     <a class="nav-link" href="/bootstrapcard">Contact message</a> -->
+            <li class="nav-item">
+                     <a class="nav-link" href="/bootstrapcard">Contact message</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="/viewmsgs">View messages</a>
             </li>
