@@ -11,7 +11,9 @@
         <table width="20%" bgcolor="#e6e6fa" align="center">
 
             <tr>
-                <td colspan=2><center><font size=4><b>Sign up</b></font></center></td>
+                <td colspan=2>
+                    <center><font size=4><b>Sign up</b></font></center>
+                </td>
             </tr>
 
             <tr>

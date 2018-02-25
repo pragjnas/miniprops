@@ -44,7 +44,7 @@ Route::get('/viewmsgs', function () {
 Route::post('/contact', function () {
     $data = request()->all();
 
-    echo "Email: ", $data['email'],'<br>';
-    echo "Subject: ", $data['text'],'<br>';
+    echo "Email: ", $data['email'], '<br>';
+    echo "Subject: ", $data['text'], '<br>';
     echo "Message: ", $data['body'];
 });

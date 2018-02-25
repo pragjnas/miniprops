@@ -23,9 +23,11 @@
                             </div>
                             <div class="card-body">
                                 <button type="Delete" class="btn btn-primary mb-2">Delete</button>
+                            </div>
+                        </div>
                     </form>
                 </div>
-                </div></td>
+            </td>
         </tr>
         <tr>
             <th scope="row">2</th>
@@ -38,9 +40,11 @@
                             </div>
                             <div class="card-body">
                                 <button type="Delete" class="btn btn-primary mb-2">Delete</button>
+                            </div>
+                        </div>
                     </form>
                 </div>
-                </div></td>
+            </td>
         </tr>
         <th scope="row">3</th>
         <td><a href="/bootstrapcard2">Password reset issue</td>
@@ -52,9 +56,11 @@
                         </div>
                         <div class="card-body">
                             <button type="Delete" class="btn btn-primary mb-2">Delete</button>
+                        </div>
+                    </div>
                 </form>
             </div>
-            </div></td>
+        </td>
         </tr>
         </tbody>
     </table>

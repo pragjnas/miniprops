@@ -7,7 +7,7 @@
     <div class="card">
 
         <!--Card image-->
-        <img class="img-fluid" src="https://www.desicomments.com/wp-content/uploads/2017/02/Thank-You-Photo-1.jpg" >
+        <img class="img-fluid" src="https://www.desicomments.com/wp-content/uploads/2017/02/Thank-You-Photo-1.jpg">
 
         <!--Card content-->
         <div class="card-body">
