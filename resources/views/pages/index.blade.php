@@ -39,9 +39,9 @@
                     ut fermentum massa justo sit amet risus.</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
-        </div>
+            <img src="http://www.helpathomenyc.com/wp-content/uploads/2016/07/NY-at-Night-768x399.jpg">
 
-        <hr>
+        </div>
 
     </div> <!-- /container -->
 
